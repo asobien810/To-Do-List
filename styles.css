@@ -14,7 +14,7 @@ h1{
 }
 
 .container{
-    width:50%;
+    width: 30%;
     min-width:400px;
     position:absolute;
     transform:translate(-50%, -50%);
@@ -31,7 +31,7 @@ h1{
     align-items: center;
     border-radius:10px;
     box-shadow: 0px 5px 20px grey;
-    width: 95%;
+    width: 75%;
   }
 
   input{
@@ -64,7 +64,7 @@ h1{
   }
 
   .list{
-    width:100%;
+    width: 80%;
     background-color: white;
     margin-top:40px;
     min-height:80px;
